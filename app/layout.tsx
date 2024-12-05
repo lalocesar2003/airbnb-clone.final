@@ -9,8 +9,8 @@ import {
   Navbar,
   RegisterModal,
   RentModal,
-  Foter,
 } from "./components/index";
+import Footer from "./components/footer/Footer";
 
 export const metadata = {
   title: "Airbnb",
